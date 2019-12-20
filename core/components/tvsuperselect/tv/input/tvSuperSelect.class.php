@@ -1,5 +1,5 @@
 <?php
-
+use MODX\Revolution\modTemplateVarInputRender;
 class modTemplateVarInputRendertvssTV extends modTemplateVarInputRender
 {
     public function getTemplate()
